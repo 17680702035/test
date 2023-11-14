@@ -146,7 +146,7 @@ const dialogConfirm = () => {
   dialogFormVisible.value = false;
 };
 onMounted(() => {
-  axios.get("http://localhost/data").then((res) => {
+  axios.get("https://lwqnode55.onrender.com/data").then((res) => {
     if (res.status !== 200) {
       return alert("请求失败");
     }
