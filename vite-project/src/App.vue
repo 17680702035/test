@@ -3,6 +3,7 @@
     <!--title 标题-->
     <div class="title">
       <h2>21005348</h2>
+      <h3>后端数据通过render部署，启动有点慢，请稍等30s</h3>
     </div>
     <!--query 查询-->
     <div class="query-box">
